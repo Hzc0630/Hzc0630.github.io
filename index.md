@@ -1,5 +1,5 @@
 ## Zichao Hu 
-Received the B.E. degree in Communication Engineering Specialty from Wuhan University of Technology, China, in 2019. He is currently pursuing toward the Master's degree at the Huazhong University of Science and Technology. His current research interests include artificial intelligence, information security, and image/signal processing.
+Received the B.E. degree in Communication Engineering from Wuhan University of Technology, China, in 2019. He is currently pursuing toward the Master's degree at the Huazhong University of Science and Technology. His current research interests include artificial intelligence, information security, and image/signal processing.
 <table border="0">
   <tr>
     <td width="75%">
