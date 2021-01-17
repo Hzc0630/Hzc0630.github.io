@@ -6,6 +6,6 @@
 ##### Date of Birth:June. 1997
 ##### Political Status:Member of Communist Party of China
 
-#### Education 
+### Education 
 ##### Huazhong University of Science and Technology
 
